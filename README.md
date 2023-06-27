@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-1.spring boot ,spring cloud issues:
- 1.1 保持各starter 版本一致
- 1.2 yml配置不生效，可以尝试替换文件再恢复文件
+- 1.spring boot ,spring cloud issues:
+ - 1.1 保持各starter 版本一致
+ - 1.2 yml配置不生效，可以尝试替换文件再恢复文件
  
